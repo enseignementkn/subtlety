@@ -1,1 +1,1 @@
-Add YouTube iframe loading=lazy (#8001)
+Allow Annotator PIL.Image inputs (#8397)
