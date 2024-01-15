@@ -1,1 +1,1 @@
-Fix an issue with flatbuffer version for Raspberry Pi (#8311)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
